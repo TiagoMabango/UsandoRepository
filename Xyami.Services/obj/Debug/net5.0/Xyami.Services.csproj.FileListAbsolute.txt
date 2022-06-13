@@ -1,0 +1,45 @@
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.Services\bin\Debug\net5.0\Xyami.Services.deps.json
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.Services\bin\Debug\net5.0\Xyami.Services.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.Services\bin\Debug\net5.0\ref\Xyami.Services.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.Services\bin\Debug\net5.0\Xyami.Services.pdb
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.Services\bin\Debug\net5.0\Xyami.Core.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.Services\bin\Debug\net5.0\Xyami.Core.pdb
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.Services\obj\Debug\net5.0\Xyami.Services.csproj.AssemblyReference.cache
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.Services\obj\Debug\net5.0\Xyami.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.Services\obj\Debug\net5.0\Xyami.Services.AssemblyInfoInputs.cache
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.Services\obj\Debug\net5.0\Xyami.Services.AssemblyInfo.cs
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.Services\obj\Debug\net5.0\Xyami.Services.csproj.CoreCompileInputs.cache
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.Services\obj\Debug\net5.0\Xyami.Services.csproj.CopyComplete
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.Services\obj\Debug\net5.0\Xyami.Services.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.Services\obj\Debug\net5.0\ref\Xyami.Services.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.Services\obj\Debug\net5.0\Xyami.Services.pdb
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.Services\bin\Debug\net5.0\Xyami.Services.deps.json
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.Services\bin\Debug\net5.0\Xyami.Services.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.Services\bin\Debug\net5.0\ref\Xyami.Services.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.Services\bin\Debug\net5.0\Xyami.Services.pdb
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.Services\bin\Debug\net5.0\Xyami.Core.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.Services\bin\Debug\net5.0\Xyami.Core.pdb
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.Services\obj\Debug\net5.0\Xyami.Services.csprojAssemblyReference.cache
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.Services\obj\Debug\net5.0\Xyami.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.Services\obj\Debug\net5.0\Xyami.Services.AssemblyInfoInputs.cache
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.Services\obj\Debug\net5.0\Xyami.Services.AssemblyInfo.cs
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.Services\obj\Debug\net5.0\Xyami.Services.csproj.CoreCompileInputs.cache
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.Services\obj\Debug\net5.0\Xyami.Services.csproj.CopyComplete
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.Services\obj\Debug\net5.0\Xyami.Services.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.Services\obj\Debug\net5.0\ref\Xyami.Services.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.Services\obj\Debug\net5.0\Xyami.Services.pdb
+C:\Users\tiago\source\repos\xyami-backend\Xyami.Services\bin\Debug\net5.0\Xyami.Services.deps.json
+C:\Users\tiago\source\repos\xyami-backend\Xyami.Services\bin\Debug\net5.0\Xyami.Services.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.Services\bin\Debug\net5.0\ref\Xyami.Services.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.Services\bin\Debug\net5.0\Xyami.Services.pdb
+C:\Users\tiago\source\repos\xyami-backend\Xyami.Services\bin\Debug\net5.0\Xyami.Core.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.Services\bin\Debug\net5.0\Xyami.Core.pdb
+C:\Users\tiago\source\repos\xyami-backend\Xyami.Services\obj\Debug\net5.0\Xyami.Services.csproj.AssemblyReference.cache
+C:\Users\tiago\source\repos\xyami-backend\Xyami.Services\obj\Debug\net5.0\Xyami.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\source\repos\xyami-backend\Xyami.Services\obj\Debug\net5.0\Xyami.Services.AssemblyInfoInputs.cache
+C:\Users\tiago\source\repos\xyami-backend\Xyami.Services\obj\Debug\net5.0\Xyami.Services.AssemblyInfo.cs
+C:\Users\tiago\source\repos\xyami-backend\Xyami.Services\obj\Debug\net5.0\Xyami.Services.csproj.CoreCompileInputs.cache
+C:\Users\tiago\source\repos\xyami-backend\Xyami.Services\obj\Debug\net5.0\Xyami.Services.csproj.CopyComplete
+C:\Users\tiago\source\repos\xyami-backend\Xyami.Services\obj\Debug\net5.0\Xyami.Services.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.Services\obj\Debug\net5.0\ref\Xyami.Services.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.Services\obj\Debug\net5.0\Xyami.Services.pdb

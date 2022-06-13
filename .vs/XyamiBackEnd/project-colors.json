@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8902f1ef-7bb6-481f-9e8c-342e26a4dc6e": {
+      "ProjectGuid": "8902f1ef-7bb6-481f-9e8c-342e26a4dc6e",
+      "DisplayName": "Xyami.API",
+      "ColorIndex": 0
+    },
+    "64d581b3-812b-4f88-aaf0-30b777c4c0a4": {
+      "ProjectGuid": "64d581b3-812b-4f88-aaf0-30b777c4c0a4",
+      "DisplayName": "Xyami.Services",
+      "ColorIndex": 1
+    },
+    "134a648f-7c5f-448f-9b91-c45a952d4a87": {
+      "ProjectGuid": "134a648f-7c5f-448f-9b91-c45a952d4a87",
+      "DisplayName": "Xyami.Infrastruture",
+      "ColorIndex": 2
+    },
+    "5d7fa91c-6f3a-4ff3-9c6f-b3962725c7f2": {
+      "ProjectGuid": "5d7fa91c-6f3a-4ff3-9c6f-b3962725c7f2",
+      "DisplayName": "Xyami.Core",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

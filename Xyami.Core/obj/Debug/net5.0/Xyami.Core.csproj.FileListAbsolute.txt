@@ -1,0 +1,45 @@
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.Core\bin\Debug\net5.0\Xyami.Core.deps.json
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.Core\bin\Debug\net5.0\Xyami.Core.runtimeconfig.json
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.Core\bin\Debug\net5.0\Xyami.Core.runtimeconfig.dev.json
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.Core\bin\Debug\net5.0\Xyami.Core.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.Core\bin\Debug\net5.0\ref\Xyami.Core.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.Core\bin\Debug\net5.0\Xyami.Core.pdb
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.Core\obj\Debug\net5.0\Xyami.Core.csproj.AssemblyReference.cache
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.Core\obj\Debug\net5.0\Xyami.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.Core\obj\Debug\net5.0\Xyami.Core.AssemblyInfoInputs.cache
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.Core\obj\Debug\net5.0\Xyami.Core.AssemblyInfo.cs
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.Core\obj\Debug\net5.0\Xyami.Core.csproj.CoreCompileInputs.cache
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.Core\obj\Debug\net5.0\Xyami.Core.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.Core\obj\Debug\net5.0\ref\Xyami.Core.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.Core\obj\Debug\net5.0\Xyami.Core.pdb
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.Core\obj\Debug\net5.0\Xyami.Core.genruntimeconfig.cache
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.Core\bin\Debug\net5.0\Xyami.Core.deps.json
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.Core\bin\Debug\net5.0\Xyami.Core.runtimeconfig.json
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.Core\bin\Debug\net5.0\Xyami.Core.runtimeconfig.dev.json
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.Core\bin\Debug\net5.0\Xyami.Core.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.Core\bin\Debug\net5.0\ref\Xyami.Core.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.Core\bin\Debug\net5.0\Xyami.Core.pdb
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.Core\obj\Debug\net5.0\Xyami.Core.csprojAssemblyReference.cache
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.Core\obj\Debug\net5.0\Xyami.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.Core\obj\Debug\net5.0\Xyami.Core.AssemblyInfoInputs.cache
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.Core\obj\Debug\net5.0\Xyami.Core.AssemblyInfo.cs
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.Core\obj\Debug\net5.0\Xyami.Core.csproj.CoreCompileInputs.cache
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.Core\obj\Debug\net5.0\Xyami.Core.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.Core\obj\Debug\net5.0\ref\Xyami.Core.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.Core\obj\Debug\net5.0\Xyami.Core.pdb
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.Core\obj\Debug\net5.0\Xyami.Core.genruntimeconfig.cache
+C:\Users\tiago\source\repos\xyami-backend\Xyami.Core\bin\Debug\net5.0\Xyami.Core.deps.json
+C:\Users\tiago\source\repos\xyami-backend\Xyami.Core\bin\Debug\net5.0\Xyami.Core.runtimeconfig.json
+C:\Users\tiago\source\repos\xyami-backend\Xyami.Core\bin\Debug\net5.0\Xyami.Core.runtimeconfig.dev.json
+C:\Users\tiago\source\repos\xyami-backend\Xyami.Core\bin\Debug\net5.0\Xyami.Core.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.Core\bin\Debug\net5.0\ref\Xyami.Core.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.Core\bin\Debug\net5.0\Xyami.Core.pdb
+C:\Users\tiago\source\repos\xyami-backend\Xyami.Core\obj\Debug\net5.0\Xyami.Core.csproj.AssemblyReference.cache
+C:\Users\tiago\source\repos\xyami-backend\Xyami.Core\obj\Debug\net5.0\Xyami.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\source\repos\xyami-backend\Xyami.Core\obj\Debug\net5.0\Xyami.Core.AssemblyInfoInputs.cache
+C:\Users\tiago\source\repos\xyami-backend\Xyami.Core\obj\Debug\net5.0\Xyami.Core.AssemblyInfo.cs
+C:\Users\tiago\source\repos\xyami-backend\Xyami.Core\obj\Debug\net5.0\Xyami.Core.csproj.CoreCompileInputs.cache
+C:\Users\tiago\source\repos\xyami-backend\Xyami.Core\obj\Debug\net5.0\Xyami.Core.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.Core\obj\Debug\net5.0\ref\Xyami.Core.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.Core\obj\Debug\net5.0\Xyami.Core.pdb
+C:\Users\tiago\source\repos\xyami-backend\Xyami.Core\obj\Debug\net5.0\Xyami.Core.genruntimeconfig.cache

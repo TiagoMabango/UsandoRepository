@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xyami.API", "Xyami.API\Xyami.API.csproj", "{8902F1EF-7BB6-481F-9E8C-342E26A4DC6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xyami.Core", "Xyami.Core\Xyami.Core.csproj", "{5D7FA91C-6F3A-4FF3-9C6F-B3962725C7F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xyami.Services", "Xyami.Services\Xyami.Services.csproj", "{64D581B3-812B-4F88-AAF0-30B777C4C0A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xyami.Infrastruture", "Xyami.Infrastruture\Xyami.Infrastruture.csproj", "{134A648F-7C5F-448F-9B91-C45A952D4A87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8902F1EF-7BB6-481F-9E8C-342E26A4DC6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8902F1EF-7BB6-481F-9E8C-342E26A4DC6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8902F1EF-7BB6-481F-9E8C-342E26A4DC6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8902F1EF-7BB6-481F-9E8C-342E26A4DC6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D7FA91C-6F3A-4FF3-9C6F-B3962725C7F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D7FA91C-6F3A-4FF3-9C6F-B3962725C7F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D7FA91C-6F3A-4FF3-9C6F-B3962725C7F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D7FA91C-6F3A-4FF3-9C6F-B3962725C7F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64D581B3-812B-4F88-AAF0-30B777C4C0A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64D581B3-812B-4F88-AAF0-30B777C4C0A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64D581B3-812B-4F88-AAF0-30B777C4C0A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64D581B3-812B-4F88-AAF0-30B777C4C0A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{134A648F-7C5F-448F-9B91-C45A952D4A87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{134A648F-7C5F-448F-9B91-C45A952D4A87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{134A648F-7C5F-448F-9B91-C45A952D4A87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{134A648F-7C5F-448F-9B91-C45A952D4A87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F158906A-ABC3-4991-8B4E-88313A4B5E6F}
+	EndGlobalSection
+EndGlobal

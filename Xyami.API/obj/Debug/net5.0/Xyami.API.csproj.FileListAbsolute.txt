@@ -1,0 +1,219 @@
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\appsettings.json
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\Xyami.API.exe
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\Xyami.API.deps.json
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\Xyami.API.runtimeconfig.json
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\Xyami.API.runtimeconfig.dev.json
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\Xyami.API.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\ref\Xyami.API.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\Xyami.API.pdb
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\AutoMapper.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\Humanizer.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\Xyami.Core.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\Xyami.Core.pdb
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\obj\Debug\net5.0\Xyami.API.csproj.AssemblyReference.cache
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\obj\Debug\net5.0\Xyami.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\obj\Debug\net5.0\Xyami.API.AssemblyInfoInputs.cache
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\obj\Debug\net5.0\Xyami.API.AssemblyInfo.cs
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\obj\Debug\net5.0\Xyami.API.csproj.CoreCompileInputs.cache
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\obj\Debug\net5.0\Xyami.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\obj\Debug\net5.0\Xyami.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\obj\Debug\net5.0\staticwebassets\Xyami.API.StaticWebAssets.Manifest.cache
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\obj\Debug\net5.0\staticwebassets\Xyami.API.StaticWebAssets.xml
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\obj\Debug\net5.0\scopedcss\bundle\Xyami.API.styles.css
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\obj\Debug\net5.0\Xyami.API.RazorTargetAssemblyInfo.cache
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\obj\Debug\net5.0\Xyami.API.csproj.CopyComplete
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\obj\Debug\net5.0\Xyami.API.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\obj\Debug\net5.0\ref\Xyami.API.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\obj\Debug\net5.0\Xyami.API.pdb
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\obj\Debug\net5.0\Xyami.API.genruntimeconfig.cache
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\Xyami.Infrastruture.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\Xyami.Services.dll
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\Xyami.Infrastruture.pdb
+C:\Inokri\Em desenvolvimento\XyamiBackEnd\Xyami.API\bin\Debug\net5.0\Xyami.Services.pdb
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\appsettings.Development.json
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\appsettings.json
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\Xyami.API.exe
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\Xyami.API.deps.json
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\Xyami.API.runtimeconfig.json
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\Xyami.API.runtimeconfig.dev.json
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\Xyami.API.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\ref\Xyami.API.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\Xyami.API.pdb
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\AutoMapper.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\Humanizer.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\Xyami.Core.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\Xyami.Infrastruture.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\Xyami.Services.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\Xyami.Core.pdb
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\Xyami.Infrastruture.pdb
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\bin\Debug\net5.0\Xyami.Services.pdb
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\obj\Debug\net5.0\Xyami.API.csprojAssemblyReference.cache
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\obj\Debug\net5.0\Xyami.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\obj\Debug\net5.0\Xyami.API.AssemblyInfoInputs.cache
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\obj\Debug\net5.0\Xyami.API.AssemblyInfo.cs
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\obj\Debug\net5.0\Xyami.API.csproj.CoreCompileInputs.cache
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\obj\Debug\net5.0\Xyami.API.MvcApplicationPartsAssemblyInfo.cs
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\obj\Debug\net5.0\Xyami.API.MvcApplicationPartsAssemblyInfo.cache
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\obj\Debug\net5.0\staticwebassets\Xyami.API.StaticWebAssets.Manifest.cache
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\obj\Debug\net5.0\staticwebassets\Xyami.API.StaticWebAssets.xml
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\obj\Debug\net5.0\scopedcss\bundle\Xyami.API.styles.css
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\obj\Debug\net5.0\Xyami.API.RazorTargetAssemblyInfo.cache
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\obj\Debug\net5.0\Xyami.API.csproj.CopyComplete
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\obj\Debug\net5.0\Xyami.API.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\obj\Debug\net5.0\ref\Xyami.API.dll
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\obj\Debug\net5.0\Xyami.API.pdb
+D:\PROJECTOS\INOKRI\Em Produção\Actual\xyami-backend\Xyami.API\obj\Debug\net5.0\Xyami.API.genruntimeconfig.cache
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\appsettings.json
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\Xyami.API.StaticWebAssets.xml
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\Xyami.API.exe
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\Xyami.API.deps.json
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\Xyami.API.runtimeconfig.json
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\Xyami.API.runtimeconfig.dev.json
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\Xyami.API.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\ref\Xyami.API.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\Xyami.API.pdb
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\Xyami.Core.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\Xyami.Infrastruture.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\Xyami.Services.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\Xyami.Core.pdb
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\Xyami.Infrastruture.pdb
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\bin\Debug\net5.0\Xyami.Services.pdb
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\obj\Debug\net5.0\Xyami.API.csproj.AssemblyReference.cache
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\obj\Debug\net5.0\Xyami.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\obj\Debug\net5.0\Xyami.API.AssemblyInfoInputs.cache
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\obj\Debug\net5.0\Xyami.API.AssemblyInfo.cs
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\obj\Debug\net5.0\Xyami.API.csproj.CoreCompileInputs.cache
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\obj\Debug\net5.0\Xyami.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\obj\Debug\net5.0\Xyami.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\obj\Debug\net5.0\scopedcss\bundle\Xyami.API.styles.css
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\obj\Debug\net5.0\staticwebassets\Xyami.API.StaticWebAssets.Manifest.cache
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\obj\Debug\net5.0\Xyami.API.RazorTargetAssemblyInfo.cache
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\obj\Debug\net5.0\Xyami.API.csproj.CopyComplete
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\obj\Debug\net5.0\Xyami.API.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\obj\Debug\net5.0\ref\Xyami.API.dll
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\obj\Debug\net5.0\Xyami.API.pdb
+C:\Users\tiago\source\repos\xyami-backend\Xyami.API\obj\Debug\net5.0\Xyami.API.genruntimeconfig.cache
